@@ -1,16 +1,47 @@
-## Hi there 👋
 
-<!--
-**pedrohensz/pedrohensz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o Pedro De Oliveira!
 
-Here are some ideas to get you started:
+Sou apaixonado por **tecnologia, dados e games**, e atualmente estou construindo minha jornada como **Desenvolvedor Python** e futuro **Cientista de Dados**.  
+Gosto de aprender na prática — criando projetos, testando ideias e aplicando conceitos reais do dia a dia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 O que estou estudando
+- 🐍 **Python** (foco em automação e backend)    
+- 🧾 **SQL** e **Análise de Dados**  
+- ☁️ **Fundamentos de Nuvem e Banco de Dados**  
+
+---
+
+## 🧩 Projetos e Interesses 
+- ⚙️ Automação de tarefas e criação de scripts úteis  
+ 
+
+---
+
+## 💡 Sobre mim
+Sou uma pessoa que acredita em **disciplina, consistência e melhoria contínua**.  
+Vejo o código como uma ferramenta de transformação — tanto pessoal quanto profissional.  
+Atualmente estou construindo meu portfólio com projetos práticos e estudando diariamente para me tornar referência na área.
+
+---
+
+## 🛠️ Tecnologias que uso
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📫 Como me encontrar
+- 💼 [GitHub](https://github.com/pedrohensz)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-28175520b)    
+- 📧 **pedro.barbosa2730@gmail.com**  
+- 💬 Sempre aberto a trocar ideias e aprender com outros devs!  
+
+---
+
+> 🧠 *“Today is victory over yourself of yesterday; tomorrow is your victory over lesser men.”*
