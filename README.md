@@ -1,15 +1,14 @@
 
 # 👋 Olá, eu sou o Pedro De Oliveira!
 
-Sou apaixonado por **tecnologia, dados e games**, e atualmente estou construindo minha jornada como **Desenvolvedor Python** e futuro **Cientista de Dados**.  
+Sou apaixonado por **tecnologia, dados e games**, e atualmente estou construindo minha jornada como **Desenvolvedor Python**.  
 Gosto de aprender na prática — criando projetos, testando ideias e aplicando conceitos reais do dia a dia.
 
 ---
 
 ## 🚀 O que estou estudando
 - 🐍 **Python** (foco em automação e backend)    
-- 🧾 **SQL** e **Análise de Dados**  
-- ☁️ **Fundamentos de Nuvem e Banco de Dados**  
+- 🧾 **SQL**
 
 ---
 
