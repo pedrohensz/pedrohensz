@@ -67,4 +67,4 @@ developer**, fortalecendo minha base técnica com projetos reais.
 
 > 🧠 *"Não é estar insatisfeito com o seu nível atual que faz de você uma nulidade, mas sim o fato de você não fazer nada em relação a isso."*
 
-<img src="https://www.pinterest.com/pin/manga-headers--697002479830744649/" alt="Asta">
+<img src="https://i.pinimg.com/736x/f7/df/96/f7df968abef5a469712cbba6cfcbbefd.jpg" alt="Asta">
